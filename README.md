@@ -1,4 +1,4 @@
-### Hello World! Here Rachel 👋
+### Hello World! 👋 Here Rachel building her GitHub README profile... soon will be!!!
 
 <!--
 **rachelbq/rachelbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
