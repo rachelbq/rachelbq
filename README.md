@@ -33,8 +33,11 @@ Flexibility and change management 🔥 Empathy 🔥 Communication 🔥 Networkin
 🗣️ Languajes:
 
 🌐🌐🌐🌐🌐 Català
+
 🌐🌐🌐🌐🌐 Castellano
+
 🌐🌐🌐 English
+
 🌐🌐🌐 Français
 
 
