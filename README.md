@@ -23,7 +23,7 @@
 
 ![Project 1](https://img.shields.io/badge/Project-1-blue) 📌 *soccer-league-mgmt-laravel9:* web development for the management of a women's soccer league in Laravel 9
 
-![Project 2](https://img.shields.io/badge/Project-2-green) 📌 *API-REST-dice-roll-Laravel-8:* API-REST for an online dice game, with passport authentication, permissions and testing in Laravel 8
+![Project 2](https://img.shields.io/badge/Project-2-green) 📌 *API-REST-dice-roll-Laravel-8:* REST API for an online dice game, with passport authentication, permissions and testing in Laravel 8
 
 
 🛠️ Other tools:
