@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rachel B.
 
-Straight to full-stack development from now on... 🚀 My creative front profile, agreeing with my curious back profile that needs to understand how magic is created...✨
+## Straight to full-stack development from now on... 🚀 My creative front profile, agreeing with my curious back profile that needs to understand how magic is created...✨
 
 
 🐣 I'm currently learning:
